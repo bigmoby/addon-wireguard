@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: WireGuard
+# Home Assistant Community Add-on: WireGuard Client
 
 This project was moved to [Wireguard Client add-on][new_project].
 
